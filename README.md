@@ -138,17 +138,6 @@ Os produtos são armazenados em uma lista simplesmente encadeada, permitindo:
 
 ---
 
-## 🚀 Melhorias futuras
-
-- Editar produtos cadastrados;
-- Buscar produtos por código ou nome;
-- Ordenar produtos por nome ou código;
-- Separar o projeto em múltiplos arquivos (`.c` e `.h`);
-- Implementar interface gráfica;
-- Adicionar validação de entradas do usuário.
-
----
-
 ## 👨‍💻 Autor
 
 **João Pedro Delguingaro de Oliveira**
